@@ -531,6 +531,61 @@ I3 = 2.5 mA
 
 entonces I4 = 4.1 mA
 
+47) Para la figura 1-12, I1 + I2 - I3 + I4 = 0. Si I1 = 12 A, I2 = 0.150 kA e I4 = 250 * 10`-1 A, ¿cuánto vale I3?
+
+![image](https://user-images.githubusercontent.com/84390820/121181379-8ffe0080-c827-11eb-80ac-cc8a0ba59ab0.png)
+
+I3 = I1 + I2 I4
+
+entonces cambiamos todos a un mismo valor de medida
+
+I3 = 12 A +150 A + 25 A = 187 A 
+
+48) En cierto circuito electrónico, V1 = V2 - V3 - V4. Si V1 = 120 mV, V2 = 5000 µV y V3 = 20 * 10^-4 V, ¿cuánto vale V4?
+
+V4 = V1 + V3 - V2 = 120 mV + 2 mV - 5 mV = 117 mV
+
+49) Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmfd. Después de investigar se encuentra que “mmfd” es una unidad
+obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿cuál será el valor equivalente
+a 39 “micromicrofarads”?
+
+39 pF = 39 pico Faradios = 39 * 10^-12
+
+50) 
+
+a) Si 0.045 coulomb de carga (pregunta 29) pasan a través de un alambre en 15 ms, ¿a cuántos electrones equivale esto?
+
+Equivale a 2.8125 * 10^17
+
+b) Con una rapidez de 9.36 * 10^-19 electrones por segundo, ¿cuántos coulombs pasan por un punto de un alambre en 20  µs?
+
+2.99 * 10 ^-6 Coulombs
+
+51) Una señal de radio viaja a 299 792.458 km/s y una señal telefónica a 150m/µs. Si ambas se originan en el mismo punto, ¿cuál llega primero a un destino
+alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?
+
+Transformamos 150m/µs a km/s tenemos: 15 * 10 ^-6 km/s entonces el que mas rapido llegaría es la señal de radio viaja a 299 792.458 km/s.
+
+52) En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es, P = V * I watts.
+
+a) Si V = 50 V e I = 24 mA (ambos valores exactos), ¿cuánto vale P en watts? 
+
+P = 1.2 W 
+
+53) En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir, R = V / I ohms.
+
+a) Si V = 50 V e I = 24 mA (ambos valores exactos), ¿cuánto vale R?
+
+R = 50 V / 0.24 A = 208 ohms
+
+56) Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores,inductores y capacitores. Utilícelos como ayuda.
+
+
+![image](https://user-images.githubusercontent.com/84390820/121184972-38619400-c82b-11eb-87c4-974b8b73813b.png)
+
+57) Elabore el diagrama esquemático para una simple linterna.
+
+![image](https://user-images.githubusercontent.com/84390820/121185265-7d85c600-c82b-11eb-9a38-8b8ebaa8f731.png)
 
 CAPÍTULO II - EJERCICIOS
 
