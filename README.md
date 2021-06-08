@@ -33,6 +33,12 @@ CAPÍTULO II
 
 ![image](https://user-images.githubusercontent.com/85209614/121127483-75a83080-c7ef-11eb-85e6-ff1c45851196.png)
 
+![image](https://user-images.githubusercontent.com/84390686/121139526-785e5200-c7fe-11eb-9f70-7c557df2a077.png)
+
+![image](https://user-images.githubusercontent.com/84390686/121139605-8ca24f00-c7fe-11eb-9532-b3da6a2b82bf.png)
+
+![image](https://user-images.githubusercontent.com/84390686/121139644-988e1100-c7fe-11eb-93d0-1b17bd3c9c11.png)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
