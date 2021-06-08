@@ -29,6 +29,7 @@ Escribimos la cifra como una potencia de 10:
 0.000 000 000 000 000 000 000 000 000 000 899 9 kg = 8999 x 10^-34 kg
 
 31. Si 6.24 x 10^18 electrones pasan a través de un alambre en 1 s, ¿cuántos pasan a través de él durante un intervalo de 2 hr, 47 min y 10 s?
+  
 Realizamos una conversión del tiempo, transformamos todo a segundos:
 
 2 hr: 7 200 s
