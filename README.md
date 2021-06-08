@@ -22,6 +22,69 @@ Específicos
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+CAPITULO - EJERCICIOS
+
+1.	Realice las siguientes conversiones.
+
+a.	27 minutos a segundos 
+
+1 minuto ------> 60 segundos 
+
+27 minutos -------> x?
+
+27*60/1= 1620 s
+
+b.	0.8 horas a segundos
+
+1 hora ------> 3600 segundos 
+
+0.8 horas -------> x?
+
+0.8*3600/1= 2880 s
+
+c.	2 h 3 min 47 s a segundos
+
+1 hora ------> 3600 segundos 
+
+2 horas -------> x?		
+
+2*3600/1= 7200 s	
+
+1 min ------> 60 segundos
+
+3 min -------> x?
+
+3*60/1= 180 s
+
+Y por último sabemos que tenemos 47 segundos. Luego sumamos todos los resultados en segundos para obtener la respuesta final.
+
+7200+180+47= 7427 s
+
+d.	35 caballos de potencia a watts.
+
+Para encontrar los watts multiplicamos el valor de potencia * 746
+
+35*746 = 26110 W
+
+e.	1827 W a hp
+
+Para encontrar los hp, el valor en watts se divide para 746
+
+1827 / 746 = 2.45 hp
+
+f.	23 revoluciones a grados
+
+1 rev -------> 360 grados
+
+23 rev -----------> x?
+
+23*360/1 = 8280 grados
+	
+
+ 
+
+
+
 30) La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9 kg. Exprese esta cifra como una potencia de 10 con un dígito diferente de cero a la izquierda del punto decimal
 
 Escribimos la cifra como una potencia de 10: 0.000 000 000 000 000 000 000 000 000 000 899 9 kg = 8999 x 10^-34 kg
