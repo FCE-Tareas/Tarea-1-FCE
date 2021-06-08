@@ -22,13 +22,11 @@ Específicos
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-30. La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9 kg. Exprese esta cifra como una potencia de 10 con un dígito diferente de cero a la izquierda del punto decimal
+30) La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9 kg. Exprese esta cifra como una potencia de 10 con un dígito diferente de cero a la izquierda del punto decimal
 
-Escribimos la cifra como una potencia de 10:
+Escribimos la cifra como una potencia de 10: 0.000 000 000 000 000 000 000 000 000 000 899 9 kg = 8999 x 10^-34 kg
 
-0.000 000 000 000 000 000 000 000 000 000 899 9 kg = 8999 x 10^-34 kg
-
-31. Si 6.24 x 10^18 electrones pasan a través de un alambre en 1 s, ¿cuántos pasan a través de él durante un intervalo de 2 hr, 47 min y 10 s?
+31) Si 6.24 x 10^18 electrones pasan a través de un alambre en 1 s, ¿cuántos pasan a través de él durante un intervalo de 2 hr, 47 min y 10 s?
   
 Realizamos una conversión del tiempo, transformamos todo a segundos:
 
