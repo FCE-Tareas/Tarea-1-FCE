@@ -564,70 +564,221 @@ A este fenómeno se llama electricidad estática y no es más que la descarga re
 
 4.75 C
 
-
-
 24. Para el circuito de la figura 2-1, si 27 C pasan a través de la lampara en 9 segundos ¿Cuál es la corriente en amperes?
+
 -Aplicamos la fórmula de la corriente y remplazamos valores:
+
 I=Q/t => 27C/9s = 3A
+
 25. Si 250 \muC pasan a través del amperímetro de la figura 2-32 en 5 ms, ¿cuál será la lectura del medidor?
+
 -Aplicamos la fórmula de la corriente y remplazamos valores:
+
 I=Q/t => 250\muC/5ms = 50mA
+
 26. Si la corriente I=4A en la figura 2-1, ¿Cuántos coulomb pasan a través de la lámpara en 7ms?
+
 -Transformamos los amperios en miliamperios:
+
 4A=4000mA
+
 -Despejamos Coulomb de la fórmula de la corriente y remplazamos valores:
+
 I=Q/t => Q=I*t => C=4000mA*7ms=28000\ \muC
+
 27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms?
+
 -Despejamos Coulomb de la fórmula de la corriente y remplazamos valores:
+
 I=Q/t => Q=I*t => C=16,7mA*20ms=334\ \muC
+
 28. ¿Cuánto tiempo le toma a una carga de 100\ \muC pasar por un punto si la corriente es de 25 mA?
+
 -Despejamos el tiempo de la fórmula de la corriente y remplazamos valores:
+
 I=Q/t => t=Q/I => t=100\ \muC/25mA=4ms
+
 29. Si 93.6 x 10^12 electrones pasan a través de una lámpara en 5 ms, ¿Cuál es la corriente?
+
 -Pasar los electrones a coulomb:
+
 (93.6 x 10^12) electrones*(1C/6.24x10^18) = 15\ \muC
+
 -Aplicamos la fórmula de la corriente y remplazamos valores:
+
 I=Q/t => I=15\ \muC/5ms = 3 mA
+
 30. La carga que pasa a través de un alambre está dada por q=10t + 4, donde q está en coulomb y t en segundos.
+
 a) ¿Cuánta carga ha pasado en t=5s?
+
 -Remplazamos t en la fórmula de q.
+
 q=10(5) + 4
+
 q=54 C
 
 b) ¿Cuánta carga ha pasado en t=8s?
+
 q=10(8) + 4
+
 q=84 C
+
 31. La carga que pasa a través de un alambre es q=(80t+20) C. ¿Cuál es la corriente? Sugerencia: Seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
+
 a) ¿Cuánta carga ha pasado en t1=5s?
+
 -Remplazamos t en la fórmula de q.
+
 q=80(5) + 20
+
 q1=420 C
+
 b) ¿Cuánta carga ha pasado en t2=8s?
+
 q=80(8) + 20
+
 q2=660 C
+
 -Calcular la carga equivalente
+
 q2-q1=660-420=240C
+
 -Calcular el tiempo equivalente
+
 t2-t1=8-5=3s
+
 -Aplicar la fórmula de la corriente
+
 I=Q/t=240C/3s=80A
+
 32. ¿Cuánto tiempo le toma a 312x10^19 electrones pasar a través del circuito de la figura si la lectura del amperímetro es de 8A?
+
 -Pasar los electrones a coulomb:
+
 (312 x 10^19) electrones*(1C/6.24x10^18) = 500C
+
 -Despejamos el tiempo de la fórmula de la corriente y remplazamos valores:
+
 I=Q/t => t=Q/I => t=500C/8A=62,5s
+
 33. Si se requieren 1353.6 J para mover 47x10^19 electrones a través de la lámpara de la figura 2-32 en 1.3 min, ¿Cuánto valen E e I?
+
 -Pasar los electrones a coulomb:
+
 (47x10^19) electrones*(1C/6.24x10^18) = 75.32 C
+
 -Calcular E reemplazando en la fórmula de V
+
 V=W/Q => V=1353.6 J/75.32 C = 17,97 V => 18 V
+
 -Pasar de min a s 
+
 1.3 min = 78 s.
---Aplicamos la fórmula de la corriente y remplazamos valores:
+
+-Aplicamos la fórmula de la corriente y remplazamos valores:
+
 I=Q/t => I=75.32 C/ 78 s = 0,966 A
 
+34. ¿Qué se entiende por cd?, ¿y por ca?
 
+CD: se refiere al flujo continuo de carga eléctrica a través de un conductor entre dos puntos de distinto potencial y carga eléctrica, que no cambia de sentido con el tiempo.
 
+CA: es la corriente que cambia de dirección de manera cíclica, esto es, las cargas fluyen de manera alternada en una dirección y después en la otra dentro del circuito.
+
+35. Considere tres baterías conectadas como en la figura 2-33. 
+
+a. Si E1= 1.47 V, E2 = 1.61 V y E3 = 1.58 V, ¿cuánto vale ET? 
+
+ET= E1+E2+E3 = 1.47 V + 1.61 V + 1.58 V = 4.66 V
+
+b. Si se invierte la conexión a la fuente 3, ¿cuánto vale ET?
+
+ET= E1+E2-E3 = 1.47 V + 1.61 V - 1.58 V = 1.5 V
+
+36. ¿Cómo se carga una batería secundaria? Haga un bosquejo. ¿Se puede cargar una batería primaria?
+
+37. Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?
+
+-Reemplazar valores en la fórmula de la vida de la batería.
+
+Vida= capacidad / consumo de corriente
+
+Vida = 1400 mAh / 28 mA = 50 h
+
+38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados?
+
+10 mA = 525 h
+
+50 mA = 125 h
+
+100 mA = 57 h
+
+Mientras menor sea el consumo de corriente tiene más tiempo de duración.
+
+39. La batería de la figura 2-15 está especificada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a -15°C?
+
+A partir de la gráfica la capacidad a –15 °C baja a 65% de su valor a 5°C; por lo tanto, la capacidad =0.65 x 81 = 52.65 Ah.
+
+A partir de la gráfica el consumo de corriente a 5 °C sube a 90% de su valor a -15°C; por lo tanto, la capacidad =0.90 x 5 = 4.5 A 
+
+-Reemplazar valores en la fórmula de la vida de la batería.
+
+Vida= capacidad / consumo de corriente
+
+Vida = 52.65 Ah / 4.5 A = 11.7 h
+
+40. Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0,8 A? 
+
+(1.5 A) * (17 h) = 25.5 Ah
+
+A partir de la gráfica el consumo de corriente a 25°C baja a 90% de su valor a 25°C; por lo tanto, la capacidad =0.90 x 25.5 = 22.95 Ah 
+
+-Reemplazar valores en la fórmula de la vida de la batería.
+
+Vida= capacidad / consumo de corriente
+
+Vida = 22.95 Ah / 0.8 A = 28.7 h
+
+41. En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿cuál es el tiempo estimado (en horas) que será capaz de usar?
+
+-En las condiciones que se enlistan, la celda c tiene una capacidad de (5 mA) (520h) = 2600 mAh
+
+-Reemplazar valores en la fórmula de la vida de la batería.
+
+Vida= capacidad / consumo de corriente
+
+Vida = 2600 mAh / 10 mA = 260 h
+
+42. El voltímetro digital de la figura 2-34 tiene la característica de auto polaridad. Para cada caso, determine su lectura.
+
+a) 25 V
+
+b) 25 V 
+
+c) 14 V
+
+43. La corriente en el circuito de la figura 2-35 es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) el medidor 2, (c) ambos
+
+c) ambos 
+
+44. ¿Cuál es el error en la afirmación de que el voltaje a través de la lámpara de la figura 2-24 es 70,3V? 
+
+No hay ningún error.
+
+45. ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo.
+
+El voltímetro y el amperímetro están mal conectados deben de intercambiarse.
+
+46. Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido.
+
+![image](https://user-images.githubusercontent.com/84390686/121159634-f4fa2c00-c810-11eb-977e-1a993de66de7.png)
+
+![image](https://user-images.githubusercontent.com/84390686/121159660-fcb9d080-c810-11eb-9d34-0ed370538ea5.png)
+
+47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especificación de voltaje. ¿Por qué? Sugerencia: lea la sección de aislantes, sección 2-1.
+
+Ya se si se aplica un voltaje suficientemente elevado, en el aire se puede ver un chispazo.
 
 CONCLUSIONES
 
