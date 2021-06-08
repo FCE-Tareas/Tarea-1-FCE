@@ -267,3 +267,6 @@ A este fenómeno se llama electricidad estática y no es más que la descarga re
 
 4.75 C
 
+BIBLIOGRAFÍA
+
+Circuitos en Serie y en Paralelo Explicación Calculos y Ejercicios. (2021). Retrieved 8 June 2021, from https://www.areatecnologia.com/TUTORIALES/CALCULO%20CIRCUITOS%20ELECTRICOS.htm 
