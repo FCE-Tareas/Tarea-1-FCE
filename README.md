@@ -787,3 +787,6 @@ BIBLIOGRAFÍA
 Circuitos en Serie y en Paralelo Explicación Calculos y Ejercicios. (2021). Retrieved 8 June 2021, from https://www.areatecnologia.com/TUTORIALES/CALCULO%20CIRCUITOS%20ELECTRICOS.htm 
 
 Llopis. Aviles. M. (1988). El Sistema Internacional de Unidades. From https://saludpublica.mx/index.php/spm/article/view/138 
+
+Paguayo. (18 de Junio de 2019). Voltaje, Corriente, Resistencia, y Ley de Ohm. Obtenido de https://cursos.mcielectronics.cl/2019/06/18/voltaje-corriente-resistencia-y-ley-de-ohm/
+
