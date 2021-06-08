@@ -412,6 +412,95 @@ Realizamos una conversión del tiempo, transformamos todo a segundos:
 
 En total tenemos: 10 030 s multiplicamos por 6.24 x 10^18 electrones = 6.258 x 10^22 electrones 
 
+32) Calcula la distancia en metros que viaja la luz en el vacío en 1.2 x 10^-8 segundos
+
+Para calcular la distancia, vemos cual es la velocidad de la luz: 3*10^8 m/s Esto quiero decir que en un segundo recorre 3*10^8 m Por lo que para saber cuanto recorre en 1.2 x 10^-8 segundos multiplicaríamos por lo que recorre en un segundo entonces:
+
+1.2 x 10^-8 s * 3 * 10^8 m/s = 3,6 metros
+
+33) ¿Cuánto tiempo tarda la luz en viajar 3,47 *10^5 km en el vacío?
+
+3*10^5 km en un segundo recorre la velocidad de la luz en el espacio
+
+En 3,47 *10^5 km? Es una regla de tres el tiempo es de: 0.86 segundos
+
+34) ¿Qué tan lejos viaja la luz en km en un año luz?
+
+9 billones de kilómetros (cerca de 6 billones de millas).
+
+35) Al investigar un sitio para un proyecto hidroeléctrico se determina que el flujo de agua es de 3.73 * 10^4 m3/s. ¿A cuánto equivale esta cantidad en litros/hora?
+
+Tenemos que: 1 metro cúbico: 1000 L, y una hora: 3600 s 
+
+Entonces realizando un sistema de transformación de unidades tenemos que la cantidad de litros hora es de: 
+
+1.34 * 10^11 L/h
+
+37) ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
+
+a) 1000 = kilo 
+
+b) 1 000 000 = mega 
+
+c) 10^9 = giga
+
+d) 0. 000 001 = micro
+
+e) 10^-3 = mili
+
+f) 10^-12 = pico 
+
+38) Exprese lo siguiente en términos de sus abreviaturas, es decir, micro watts como µW. Ponga atención en las mayúsculas (esto es, V no v, para volts)
+
+a) milliampers = mA
+
+b) kilovolts = KV
+
+c) megawatts MW
+
+d) microsegundos = µs
+
+e) micrómetros = µm
+
+f) milisegundos = ms 
+
+g) nanoampers = nA
+
+39) Exprese lo siguiente en la notación de ingeniería más práctica
+
+a) 0.0015 s = 1.5 ms
+
+b) 0.000027 s =27 µs
+
+c) 0.00035 ms = 350 ns 
+
+40) Convierta lo siguiente: 
+
+a) 156 mV en volts = 0.156 V
+
+b) 0.5 mV a micro volts = 500 µV
+
+c) 47 kW a watts = 47 000 W
+
+d) 0.057 mW a kilo watt = 57*10^-6 kW
+
+e) 3.5 * 10^4 volts a kilo volts = 35 kV
+
+f) 0.000 0357 ampers a micro ampers = 35.7 µA
+
+41) Determine los valores que se deben instalar en el espacio en blanco
+
+a) 150 kV = 150 * 10^3 V
+
+b) 330µW = 0.33 * 10^-3
+
+42) Realice las operaciones y exprese las respuestas en las unidades que se indican
+
+a) 700 µA – 0.4 mA = 1100 µA = 1.1 mA
+
+b) 600 MW + 3 MW = 603 MW
+
+
 CAPÍTULO II - EJERCICIOS
 
 1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
