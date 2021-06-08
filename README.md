@@ -18,11 +18,16 @@ Específicos
 
 2. MARCO TEORICO
 
+CAPITULO I
+
+![image](https://user-images.githubusercontent.com/85137398/121125388-1b59a080-c7ec-11eb-96fb-dfbd5c8dd578.png)
+
+
 ![image](https://user-images.githubusercontent.com/84390820/121119603-88b40400-c7e1-11eb-994d-331e95c23fa5.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-CAPITULO - EJERCICIOS
+CAPITULO I - EJERCICIOS
 
 1.	Realice las siguientes conversiones.
 
