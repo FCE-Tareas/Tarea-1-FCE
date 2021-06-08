@@ -114,3 +114,13 @@ Realizamos una conversión del tiempo, transformamos todo a segundos:
 10 s 
 
 En total tenemos: 10 030 s multiplicamos por 6.24 x 10^18 electrones = 6.258 x 10^22 electrones 
+
+CAPÍTULO II - EJERCICIOS
+
+1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
+a. 1 metro cúbico de cobre
+10^29 
+
+b. Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
+10.4*10^23
+
