@@ -18,3 +18,4 @@ Específicos
 
 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/84390820/121119603-88b40400-c7e1-11eb-994d-331e95c23fa5.png)
