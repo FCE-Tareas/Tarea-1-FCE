@@ -200,6 +200,88 @@ d.	El volumen de una esfera de 10 pulgadas de radio en m^3
 
 (64*2.54)/1 = 162.56 cm = 1.6256 m 
 
+11.	Se define la ecuación s =vt, donde s es la distancia recorrida, v es la velocidad y t es el tiempo. Si usted viaja a v=60 mph por 500 segundos, obtiene y sustituye sin pensar s= (60) (50)=3000 millas. ¿Cuál es el error en este cálculo? ¿Cuál es la respuesta correcta?
+
+El error del cálculo es que multiplica por 50 que corresponde al tiempo, se debe primero los 500 segundos pasar a horas y de ahí aplicar la formula.
+
+500 s = 0.138 h
+
+s = (60)(0.138) = 8.29
+
+12.	Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardara en cortarla diagonalmente con un cortador de pizza que viaja a 0.12 m/s.?
+ 
+47 in = 1.1938 m
+
+r = 1.1938/(2*3.14)= 0.19 
+
+13.	A Joe S. se le pidió convertir 2000 yd/h en metros por segundo. Aquí está el trabajo de Joe: velocidad 2000*0.9144*60/60 = 1828.8 m/s. Determine los factores de conversión, escriba las unidades en la conversión y determine la respuesta correcta.
+
+(2000yd*0.9144m*1h)/(1h*1yd*3600s)= 0.000014 m/s
+
+14.	La distancia media de la Tierra a la Luna es 238857 millas, las señales de radio viajan a 299792458 m/s. ¿Cuánto tiempo tardan las señales de radio en llegar a la Luna?
+
+v = d/t , despejamos t porque queremos saber el tiempo 
+
+t = d/v = 238857/299792458 = 0.00079 s
+
+15.	Si camina a una velocidad de 3 km/h por 8 min, 5 km/h por 1.25 h y luego continua caminando a una velocidad de 4 km/h por 12 minutos. ¿Qué distancia habrá caminado en total?
+
+Con la formula v=d/t , despejamos distancia 
+
+d = v*t = 3*0.8 = 2.4 km = 2400 m
+
+d = v*t = 5*1.25 = 6.25 km = 6250 m
+
+d = v*t = 4*0.12 = 0.48 km = 480 m 
+
+Sumamos las distancias y obtenemos la distancia total que camino.
+
+d = 2400+6250+480 = 9130 m
+
+16.	Suponga que camina a una velocidad de 2 mph por 12 min, 4 mph por 0.75 h, luego termina de caminar a 5 mph por 15 min. ¿Qué distancia habrá caminado en total.
+d = v*t = 2*0.12 = 0.24 mi
+
+d = v*t = 4*0.75 = 3 mi
+
+d = v*t = 5*0.15 = 0.75 mi 
+
+d = 0.24+3+0.75 = 3.99 mi
+
+17.	Usted camina por 15 minutos a una velocidad de 2 km/h, luego a 18 minutos a 5 km/h y el resto del tiempo su velocidad es de 2.5 km/h. Si la distancia total que recorrió es de 2.85 km. ¿Cuántos minutos camino a 2.5 km?
+
+t = d/v = 2.85/9.5 = 0.3 h 
+
+Camino 30 minutos a 2.5 km/h
+
+18.	 Usted camina por 16 minutos a una velocidad de 1.5 mph, acelera a 3.5 mph por un corto tiempo y disminuye a 3 mph los últimos 12 min. Si la distancias total es de 1.7 millas. ¿Cuánto tiempo camino a 3.5 mph?
+
+t = 2*d/vi+vf
+
+t = 2*1.7 / 1.5+2
+
+t = 0.97 h
+
+19.	Su jefe de planta le pide investigar dos máquinas. El costo de electricidad para la operación de la maquina #1 es 43 centavos/minuto, mientras que para la maquina #2 es de $200.00 por turno de 8 horas. El precio de compra, la capacidad de producción, los costos de mantenimiento y la confiabilidad a largo plazo de ambas maquinas son idénticos. Con base en esta información, ¿qué maquina debería comprar y por qué?
+
+Maquina 1 
+
+8 horas = 480 min 
+
+206.40 dólares
+
+Maquina 2 
+
+8 horas 
+
+200 dólares 
+
+Debería comprar la maquina 2
+
+20.	Dado que 1 hp = 550 ft-lb/s, 1 ft = 0.3048 m, 1 lb = 4.448 N, 1 J = 1 N-m y 1 W = 1 J/s, demuestre que 1 hp = 746 W.
+
+Cumple ya que al momento de ir reemplazando todos los valores equivalentes obtenemos que 1 caballo de fuerza será equivalente a 746 watts.
+
+
 	
 
  
