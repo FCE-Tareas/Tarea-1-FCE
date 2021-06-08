@@ -25,6 +25,15 @@ CAPITULO I
 
 ![image](https://user-images.githubusercontent.com/84390820/121119603-88b40400-c7e1-11eb-994d-331e95c23fa5.png)
 
+CAPÍTULO II
+
+![image](https://user-images.githubusercontent.com/85209614/121127409-56a99e80-c7ef-11eb-9ed8-105160327335.png)
+
+![image](https://user-images.githubusercontent.com/85209614/121127438-6628e780-c7ef-11eb-8347-bd5810b16201.png)
+
+![image](https://user-images.githubusercontent.com/85209614/121127483-75a83080-c7ef-11eb-85e6-ff1c45851196.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 CAPITULO I - EJERCICIOS
