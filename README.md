@@ -93,6 +93,107 @@ f.	23 revoluciones a grados
 23 rev -----------> x?
 
 23*360/1 = 8280 grados
+
+2.	Realice las siguientes conversiones.
+
+a.	27 pies a metros
+
+27*0.3048 = 8.23 m
+
+b.	2.3 yd a cm
+
+2.3	* (0.9144/1) * (100/1) = 210.31 cm 
+
+c.	36° F a °C
+
+5/9 (36-32) = 2.22° C
+
+d.	18 galones (E.U.) a litros
+
+18*3.785/1 = 68.13 l
+
+e.	100 pies cuadrados a m^2
+
+(100*1)/10.764 = 9.29 m^2
+
+f.	124 pulgadas cuadrados a m^2
+
+(124*1)/1550.0031 = 0.080 m^2
+
+g.	47 libras fuerza a newtons
+
+47*4.448 = 209.056 N
+  
+3.	Establezca los factores de conversión, calcule lo siguiente y exprese las respuestas en las unidades que se indican.
+
+a.	El área de una placa de 1.2 m por 70 cm en m^2
+
+70 cm = 0.7 m
+
+1.2 * 0.7 = 0.84 m^2
+
+b.	El área de un triángulo con 25 cm de base, altura 0.5 m en m^2
+
+25 cm = 0.25 m
+
+(0.25 * 0.5)/2 = 0.0625 m^2
+
+c.	El volumen de una caja de 10 cm por 25 cm por 80 cm en m^3
+
+10 cm = 0.1 m
+
+25 cm = 0.25 m
+
+80 cm = 0.8 m
+
+(0.1*0.25*0.8) = 0.02 m^3
+
+d.	El volumen de una esfera de 10 pulgadas de radio en m^3
+
+10 in = 0.264 m
+
+4/3 * 3.14 * (0.264)^3 = 0.077 m^3
+
+4.	Un ventilador eléctrico gira a 300 revoluciones por minuto. ¿A cuánto equivale en grados por segundo?
+
+(300 * 360) / 60 = 1800 grados/s
+
+5.	Si la maquina robot de montaje superficial de la figura 1-3 coloca 15 partes cada 12 s. ¿cuál es su tasa de colocación por hora?
+
+1 hora = 3600 s
+
+(3600*15)*/12 = 4500 partes en 1 hora
+
+6.	Si su impresora láser puede imprimir 8 paginas por minutos. ¿cuantas paginas puede imprimir en una décima de hora?
+
+1/10 hora = 6 min
+
+(6*8)/1 = 48 paginas
+
+7.	Un auto tiene un rendimiento de 27 millas por galón (E.U.). ¿Cuál es el rendimiento en kilómetros en el Ecuador?
+
+ (27*1.609)/3.78 = 11.5 km/l
+ 
+8.	El radio ecuatorial de la tierra es de 3962 millas. ¿cuál es la circunferencia de la tierra en kilómetros en el Ecuador?
+
+1 mi = 1.609 km
+
+(3962*1.609)/1 = 6374.86 km 
+
+9.	Una rueda gira 18° en 0.02 s. ¿A cuántas revoluciones por minuto equivale esta cantidad?
+
+(18*60)/(0.02*360)= 150 rev/min
+
+10.	La altura de los caballos se mide en ocasiones en “palmos” donde 1 palmo = 4 pulgadas. ¿Cuántos metros de altura mide un caballo de 16 palmos?, ¿y en centímetros?
+
+1 palmo = 4 pulgadas
+
+1 pulgada = 2.54 cm
+
+1 m = 100 cm 
+
+(64*2.54)/1 = 162.56 cm = 1.6256 m 
+
 	
 
  
