@@ -93,11 +93,308 @@ f.	23 revoluciones a grados
 23 rev -----------> x?
 
 23*360/1 = 8280 grados
-	
 
+2.	Realice las siguientes conversiones.
+
+a.	27 pies a metros
+
+27*0.3048 = 8.23 m
+
+b.	2.3 yd a cm
+
+2.3	* (0.9144/1) * (100/1) = 210.31 cm 
+
+c.	36° F a °C
+
+5/9 (36-32) = 2.22° C
+
+d.	18 galones (E.U.) a litros
+
+18*3.785/1 = 68.13 l
+
+e.	100 pies cuadrados a m^2
+
+(100*1)/10.764 = 9.29 m^2
+
+f.	124 pulgadas cuadrados a m^2
+
+(124*1)/1550.0031 = 0.080 m^2
+
+g.	47 libras fuerza a newtons
+
+47*4.448 = 209.056 N
+  
+3.	Establezca los factores de conversión, calcule lo siguiente y exprese las respuestas en las unidades que se indican.
+
+a.	El área de una placa de 1.2 m por 70 cm en m^2
+
+70 cm = 0.7 m
+
+1.2 * 0.7 = 0.84 m^2
+
+b.	El área de un triángulo con 25 cm de base, altura 0.5 m en m^2
+
+25 cm = 0.25 m 
+
+(0.25 * 0.5)/2 = 0.0625 m^2
+
+c.	El volumen de una caja de 10 cm por 25 cm por 80 cm en m^3
+
+10 cm = 0.1 m
+
+25 cm = 0.25 m
+
+80 cm = 0.8 m
+
+(0.1*0.25*0.8) = 0.02 m^3
+
+d.	El volumen de una esfera de 10 pulgadas de radio en m^3
+
+10 in = 0.264 m
+
+4/3 * 3.14 * (0.264)^3 = 0.077 m^3
+
+4.	Un ventilador eléctrico gira a 300 revoluciones por minuto. ¿A cuánto equivale en grados por segundo?
+
+(300 * 360) / 60 = 1800 grados/s
+
+5.	Si la maquina robot de montaje superficial de la figura 1-3 coloca 15 partes cada 12 s. ¿cuál es su tasa de colocación por hora?
+
+1 hora = 3600 s
+
+(3600*15)*/12 = 4500 partes en 1 hora
+
+6.	Si su impresora láser puede imprimir 8 paginas por minutos. ¿cuantas paginas puede imprimir en una décima de hora?
+
+1/10 hora = 6 min
+
+(6*8)/1 = 48 paginas
+
+7.	Un auto tiene un rendimiento de 27 millas por galón (E.U.). ¿Cuál es el rendimiento en kilómetros en el Ecuador?
+
+ (27*1.609)/3.78 = 11.5 km/l
  
+8.	El radio ecuatorial de la tierra es de 3962 millas. ¿cuál es la circunferencia de la tierra en kilómetros en el Ecuador?
 
+1 mi = 1.609 km
 
+(3962*1.609)/1 = 6374.86 km 
+
+9.	Una rueda gira 18° en 0.02 s. ¿A cuántas revoluciones por minuto equivale esta cantidad?
+
+(18*60)/(0.02*360)= 150 rev/min
+
+10.	La altura de los caballos se mide en ocasiones en “palmos” donde 1 palmo = 4 pulgadas. ¿Cuántos metros de altura mide un caballo de 16 palmos?, ¿y en centímetros?
+
+1 palmo = 4 pulgadas
+
+1 pulgada = 2.54 cm
+
+1 m = 100 cm 
+
+(64*2.54)/1 = 162.56 cm = 1.6256 m 
+
+11.	Se define la ecuación s =vt, donde s es la distancia recorrida, v es la velocidad y t es el tiempo. Si usted viaja a v=60 mph por 500 segundos, obtiene y sustituye sin pensar s= (60) (50)=3000 millas. ¿Cuál es el error en este cálculo? ¿Cuál es la respuesta correcta?
+
+El error del cálculo es que multiplica por 50 que corresponde al tiempo, se debe primero los 500 segundos pasar a horas y de ahí aplicar la formula.
+
+500 s = 0.138 h
+
+s = (60)(0.138) = 8.29
+
+12.	Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardara en cortarla diagonalmente con un cortador de pizza que viaja a 0.12 m/s.? 
+
+47 in = 1.1938 m
+
+r = 1.1938/(2*3.14)= 0.19 
+
+13.	A Joe S. se le pidió convertir 2000 yd/h en metros por segundo. Aquí está el trabajo de Joe: velocidad 2000*0.9144*60/60 = 1828.8 m/s. Determine los factores de conversión, escriba las unidades en la conversión y determine la respuesta correcta.
+
+(2000yd*0.9144m*1h)/(1h*1yd*3600s)= 0.000014 m/s
+
+14.	La distancia media de la Tierra a la Luna es 238857 millas, las señales de radio viajan a 299792458 m/s. ¿Cuánto tiempo tardan las señales de radio en llegar a la Luna?
+
+v = d/t , despejamos t porque queremos saber el tiempo 
+
+t = d/v = 238857/299792458 = 0.00079 s
+
+15.	Si camina a una velocidad de 3 km/h por 8 min, 5 km/h por 1.25 h y luego continua caminando a una velocidad de 4 km/h por 12 minutos. ¿Qué distancia habrá caminado en total?
+
+Con la formula v=d/t , despejamos distancia 
+
+d = v*t = 3*0.8 = 2.4 km = 2400 m
+
+d = v*t = 5*1.25 = 6.25 km = 6250 m
+
+d = v*t = 4*0.12 = 0.48 km = 480 m 
+
+Sumamos las distancias y obtenemos la distancia total que camino.
+
+d = 2400+6250+480 = 9130 m
+
+16.	Suponga que camina a una velocidad de 2 mph por 12 min, 4 mph por 0.75 h, luego termina de caminar a 5 mph por 15 min. ¿Qué distancia habrá caminado en total.
+
+d = v*t = 2*0.12 = 0.24 mi
+
+d = v*t = 4*0.75 = 3 mi
+
+d = v*t = 5*0.15 = 0.75 mi 
+
+d = 0.24+3+0.75 = 3.99 mi
+
+17.	Usted camina por 15 minutos a una velocidad de 2 km/h, luego a 18 minutos a 5 km/h y el resto del tiempo su velocidad es de 2.5 km/h. Si la distancia total que recorrió es de 2.85 km. ¿Cuántos minutos camino a 2.5 km?
+
+t = d/v = 2.85/9.5 = 0.3 h 
+
+Camino 30 minutos a 2.5 km/h
+
+18.	 Usted camina por 16 minutos a una velocidad de 1.5 mph, acelera a 3.5 mph por un corto tiempo y disminuye a 3 mph los últimos 12 min. Si la distancias total es de 1.7 millas. ¿Cuánto tiempo camino a 3.5 mph?
+
+t = 2*d/vi+vf
+
+t = 2*1.7 / 1.5+2
+
+t = 0.97 h
+
+19.	Su jefe de planta le pide investigar dos máquinas. El costo de electricidad para la operación de la maquina #1 es 43 centavos/minuto, mientras que para la maquina #2 es de $200.00 por turno de 8 horas. El precio de compra, la capacidad de producción, los costos de mantenimiento y la confiabilidad a largo plazo de ambas maquinas son idénticos. Con base en esta información, ¿qué maquina debería comprar y por qué?
+
+Maquina 1 
+
+8 horas = 480 min 
+
+206.40 dólares
+
+Maquina 2 
+
+8 horas 
+
+200 dólares 
+
+Debería comprar la maquina 2
+
+20.	Dado que 1 hp = 550 ft-lb/s, 1 ft = 0.3048 m, 1 lb = 4.448 N, 1 J = 1 N-m y 1 W = 1 J/s, demuestre que 1 hp = 746 W.
+
+Cumple ya que al momento de ir reemplazando todos los valores equivalentes obtenemos que 1 caballo de fuerza será equivalente a 746 watts.
+
+21.	Exprese cada una de las siguientes cantidades en notación de potencias de diez con un digito diferente de cero a la izquierda del punto decimal:
+
+a.	8675
+
+8.675 * 10^3
+
+b.	0.00872
+
+8.72*10^-3
+
+c.	12.4*10^2
+
+1.24*10^3
+
+d.	37.2*10^-2
+
+3.72*10^-1
+
+e.	0.00348*10^5
+
+3.48*10^2
+
+f.	0.000215*10^-3
+
+2.15*10^-7
+
+g.	14.7*10^0
+
+1.47*10^-1
+
+22.	Exprese las respuestas de cada una de las siguientes cantidades en notación de potencias de diez con un digito diferente de cero a la izquierda del punto decimal:
+
+a.	(17.6)(100) = 1.76*10^3
+
+b.	(1400)(27*10^-3) = 3.78*10^-1
+
+c.	(0.15*10^6)(14*10^-4) = 2.1*10^-2
+
+d.	(1*10^-7)(10^4)(10.65) = 4.091*10^-4
+
+e.	(12.5)(1000)(0.01) = 1.25*10^-2
+
+f.	(18.4*10^0)(100)(1.5*10^-5)(0.001) = 2.76*10^-7
+
+23.	Repita las instrucciones de la pregunta 22 para las siguientes cantidades.
+
+a.	125/1000 = 1.25*10^-5
+
+b.	(8*10^4)/0.001 = 8*10^7
+
+c.	(3*10^4)/1.5*10^6 = 2*10^-4
+
+d.	(16*10^-7)(21.8*10^6)/(14.2)(12*10^-5) = 2.046*10^4
+
+24.	Determine el resultado de las siguientes operaciones
+
+a.	123.7+0.05+1259*10^-3 = 1.25009*10^-3
+
+b.	72.3*10^-2+1*10^-3 = 7.24*10^-5
+
+c.	8695*10^2-383 = 8.69117*10^5
+
+d.	452*10^-2+(697)(0.01) = 1.149*10^-1
+
+25.	Convierta las siguientes cantidades a notación de potencias de 10, y sin usar la calculadora determine las respuestas.
+
+a.	(4*10^3)(0.05)^5 = 10*10^0
+
+b.	(4*10^3)(-0.05)^5 = 10*10^0
+
+c.	(3*2*10)^2/(2*5*10^-1) = 3.6*10^3
+
+d.	(30+20)^-2(2.5*10^6)(6000)/(1*10^3)^3(2*10^-1)^2 = 1.5*10^-5
+
+e.	(-0.027)^1/3(-0.2)^2/(23+1)^0*10^-3 = -5.2171*10^-8
+
+26.	Para cada una de las siguientes cantidades convierta los números a notación de potencias de diez, después realice los cálculos que se indican. Redondee su respuesta a cuatro dígitos:
+
+a.	(452)(6.73*10^4) = 30.4196*10^7
+
+b.	(0.00985)(4700) = 4.6295*10^-1
+
+c.	(0.0892)/(0.0000673) = 1.556*10^4
+
+d.	12.40 - 236*10^-2 = 1.004*10^-1
+
+e.	(1.27)^3+(47.9)/(0.8)^2 = 7.6892133*10^-1
+
+27.	Realice lo siguiente
+
+a.	 convierta los números a notación de potencias de diez, después realice los cálculos que se indican,
+
+b.	realice la operación directamente en la calculadora sin conversión. ¿Cuál es su conclusión?
+
+i. 842*0.0014     ii. 0.0352/0.00791
+
+i. = 1.1788 *10^0
+
+ii. = 4.45*10^0 
+
+Las dos operaciones q esta multiplicada por la potencia de diez tiene como exponente 0 
+
+28.	Exprese cada una de las siguientes cantidades en notación convencional:
+
+a.	34.9*10^4 = 349000
+
+b.	15.1 *10^0 = 15.1
+
+c.	234.6*10^-4 = 0.02346
+
+d.	6.97*10^-2 = 0.0697
+
+e.	45786.97*10^-1 = 4578.697
+
+f.	6.97*10^-5 = 0.0000697
+
+29.	Un coulomb (capitulo 2) es la cantidad de carga representada por 6 240 000 000 000 000 000 electrones. Exprese esta cantidad en notación de potencias de diez.
+
+R=6.24*10^18
 
 30) La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9 kg. Exprese esta cifra como una potencia de 10 con un dígito diferente de cero a la izquierda del punto decimal
 
