@@ -871,6 +871,10 @@ Ya se si se aplica un voltaje suficientemente elevado, en el aire se puede ver u
 
 CONCLUSIONES
 
+* El SI de medidas se realiza las conversiones de medidades universales de una manera mas rapida y eficaz obteniendo resultados con un margen de error minimo, pero obteniendo el resultado deseando en la unidad de medidad de preferencia.
+
+* El analisis de circuitos brinda una mejor comprension a la representacion esquematica de circuitos pictograficos, reconocienod asi las unidades electricas e identifiando sus prefijos que estan estandarizados.
+
 BIBLIOGRAFÍA
 
 Circuitos en Serie y en Paralelo Explicación Calculos y Ejercicios. (2021). Retrieved 8 June 2021, from https://www.areatecnologia.com/TUTORIALES/CALCULO%20CIRCUITOS%20ELECTRICOS.htm 
