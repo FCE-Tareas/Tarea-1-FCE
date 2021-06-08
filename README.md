@@ -500,6 +500,37 @@ a) 700 µA – 0.4 mA = 1100 µA = 1.1 mA
 
 b) 600 MW + 3 MW = 603 MW
 
+43) Realice las operaciones y exprese las respuestas en las unidades que se indican.
+
+a) 330 V + 0.15 kV + 0.2 * 10^3 V = 680 V 
+
+b) 60 W + 100W + 2700 mW = 162.7 W
+
+44) El voltaje de una línea de transmisión de alto voltaje es de 1.15 * 10^5 V.
+
+¿Cuál es el voltaje en kV?
+
+115 kV
+
+45) Se compra un radiador eléctrico de 1500 W para calentar una habitación.
+¿Cuántos kW es esta cantidad?
+
+1.5 kW
+
+46) Considere la figura 1-11. Como aprenderá en el capítulo 6, I4 = I1 + I2 + I3. Si I1 = 1.25 mA, I2 = 350 µA e I3 = 250 * 10^-5 A, ¿cuánto vale I4?
+
+![image](https://user-images.githubusercontent.com/84390820/121180766-d30ba400-c826-11eb-91d1-0f010f562634.png)
+
+Tranformamos todos a una misma unidad de amperaje
+
+I1 = 1.25 mA
+
+I2 = 0.35 mA
+
+I3 = 2.5 mA 
+
+entonces I4 = 4.1 mA
+
 
 CAPÍTULO II - EJERCICIOS
 
